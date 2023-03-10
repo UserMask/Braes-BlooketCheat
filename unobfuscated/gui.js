@@ -78,7 +78,7 @@
                         createElement("div", {
                             id: "backgroundImage",
                             style: {
-                                backgroundImage: "url(https://ac.blooket.com/dashboard/65a43218fd1cabe52bdf1cda34613e9e.png)",
+                                backgroundImage: "url(https://th.bing.com/th/id/OIP.VaR28wM1_tFhNoY6eqoQfAHaE8?pid=ImgDet&rs=1)",
                                 display: "block",
                                 height: "200%",
                                 position: "absolute",
@@ -141,7 +141,7 @@
                             fontWeight: "700",
                             userSelect: "text"
                         },
-                        innerHTML: "Created by Brae"
+                        innerHTML: "Created by BIG SHARK"
                     }),
                     (controlButtons = createElement("div", {
                         id: "controlButtons",
